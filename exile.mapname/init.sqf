@@ -1,0 +1,1 @@
+execVM "intro\intro.sqf";
